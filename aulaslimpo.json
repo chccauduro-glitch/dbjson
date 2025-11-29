@@ -1,0 +1,402 @@
+[
+  {
+    "aluno": "CARLA",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "DANI",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "KIKA COSTA",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MARIA BEATRIZ FERRAZZA",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MONIQUE",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "PAULO SANDES",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "REGINA DIEHL",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "FERNANDA MELO",
+    "aulas": "Noite de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ICLEA",
+    "aulas": "Noite de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ALICIA GIL WENZEL",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "HELIO",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "IONE CARDOSO",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "KATYA",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "SABINE RAIZLER",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANA MARIA PANDOLFO FEOLI",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANE",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "HEDY",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "JEANE",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "JULIETA",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "KIKA COSTA",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "SONEIDE UBER",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "VERA MAGNO",
+    "aulas": "Tarde de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANA PAULA TAVARES HAHN",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANNE MARIE",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "CAREM",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "CARMEM LIGIA",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "GLADIS",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "HELOISA HELENA ACAUAN",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "JULIA RICHTER",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "VALESCA ELY",
+    "aulas": "Manhã de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ADRIANA WAGNER",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANA MARIA SCARPELLINI",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANANDA RUMPEL",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "KIKA COSTA",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "LETICIA",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MARIA RITA",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "SHEILA HICKMANN",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANE",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "CLARISSA SCHULER",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "LIZETE",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MAURIZIA",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MIRIAM",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "PEDRO",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "RENATA",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "TANIA BARROS",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ELIANE MEDEIROS",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "KIKA ZANELA",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "LIA GOMES",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "LUCIA COPETTI KLOHN",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MARIA LUCIA AZAMBUJA",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "PAULA MONTERO",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ROGÉRIO",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "VANESSA GIOCOBBO",
+    "aulas": "Manhã de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ADRIANA BEISER",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "CINTIA DUARTE",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "DENIZE TURKIENECZ",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "FERNANDO DA LUZ",
+    "aulas": "Tarde de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ISABEL",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "JULIETA",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "MARIA CAROLINA",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "VITORIA",
+    "aulas": "Noite de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANA MARIA SCARPELLINI",
+    "aulas": "Tarde de Sexta",
+    "professora": "VITÓRIA"
+  },
+  {
+    "aluno": "VITORIA - GILDA SCHMIDT",
+    "aulas": "Tarde de Sexta",
+    "professora": "VITÓRIA"
+  },
+  {
+    "aluno": "VITORIA - VALERIA  SOVIERO",
+    "aulas": "Tarde de Sexta",
+    "professora": "VITÓRIA"
+  },
+  {
+    "aluno": "VITORIA - ANNETE PICOLLI",
+    "aulas": "Tarde de Sexta",
+    "professora": "VITÓRIA"
+  },
+  {
+    "aluno": "VITORIA - LUCELINDA COUTO",
+    "aulas": "Tarde de Sexta",
+    "professora": "VITÓRIA"
+  },
+  {
+    "aluno": "HELOISA HELENA ACAUAN",
+    "aulas": "Tarde de Quarta",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "ISABEL",
+    "aulas": "Manhã de Quinta",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "DANI",
+    "aulas": "Manhã de Segunda",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "ANA PAULA TAVARES HAHN",
+    "aulas": "Manhã de Quinta",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "ANA PAULA TAVARES HAHN",
+    "aulas": "Manhã de Sexta",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "IONE CARDOSO",
+    "aulas": "Manhã de Terça",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "ADRIANA ZUCCI",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ANA CAROLINA",
+    "aulas": "Noite de Quarta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "EVELISE JAWETZ",
+    "aulas": "Tarde de Quinta",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "ROSANE",
+    "aulas": "Tarde de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "VERIDIANA BROK",
+    "aulas": "Noite de Segunda",
+    "professora": "PAVLOVA"
+  },
+  {
+    "aluno": "CAMILA AYALA",
+    "aulas": "Noite de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "FLAVIA FAERMANN",
+    "aulas": "Noite de Segunda",
+    "professora": "ADMA"
+  },
+  {
+    "aluno": "TAMIRES MORSCH",
+    "aulas": "Manhã de Terça",
+    "professora": "ADMA"
+  }
+]
